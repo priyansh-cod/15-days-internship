@@ -11,7 +11,7 @@ import android.widget.ListView;
 public class CustomlistActivity extends AppCompatActivity {
     ListView lv1;
     int image[]={R.drawable.i,R.drawable.mi,R.drawable.r,R.drawable.s};
-    String []name={"iphone ","mi","realme","samsung"};
+    String []name={"c/c++","dart","flutter","java","kotlin","php","python"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
